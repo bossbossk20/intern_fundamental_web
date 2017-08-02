@@ -7,9 +7,10 @@ teach intern student
 - [ ] HTML
 - [ ] CSS
 - [ ] Javascript
-- [ ] Choose JS Framework such as React, Vue, Angular
-- [ ] Create APIs using Node
-- [ ] Database
+- [ ] Choose JS Framework such as React, Vue
+- [ ] Single Page Application using Router
 - [ ] AJAX
+- [ ] Create APIs using Node
 - [ ] Firebase
+- [ ] Server Side Rendering using Next.js or Nuxt.js
 - [ ] CI/CD auto Deploy
