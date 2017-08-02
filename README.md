@@ -13,4 +13,4 @@ teach intern student
 - [ ] Create APIs using Node
 - [ ] Firebase
 - [ ] Server Side Rendering using Next.js or Nuxt.js
-- [ ] CI/CD auto Deploy
+- [ ] CI/CD using Travis CI
