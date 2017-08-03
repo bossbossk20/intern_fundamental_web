@@ -4,7 +4,7 @@ teach intern student
 ###  Getting start to web developer from scratch
 
 - [x] Git using CLI
-- [ ] HTML
+- [x] HTML
 - [ ] CSS
 - [ ] Javascript
 - [ ] Choose JS Framework such as React, Vue
